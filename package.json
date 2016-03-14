@@ -1,0 +1,19 @@
+{
+  "name": "gune-chat",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.4.5"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license":"MIT"
+}
