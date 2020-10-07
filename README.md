@@ -1,5 +1,5 @@
 # Portfolio - Resume Website 
-##hosted on `omega.uta.edu` 
+## hosted on `omega.uta.edu` 
 
 ## Synopsis
 A simple single page website for portraying personal information and projects using `HTML5`, `CSS3`, `jQuery` and some `PHP`. 
